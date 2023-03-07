@@ -3,7 +3,7 @@
 **Name:** Yizack Rangel \
 **Contact:** yizackr@gmail.com \
 **Website:** https://yizack.com \
-**Country:** ![Colombia](https://gist.githubusercontent.com/Yizack/260f39ecd845648c7e749fde1a18687b/raw/01875b5b95131280bd82e4d9ae170552694e2b73/Flag_of_Panama.svg) Colombia
+**Country:** ![Bandera de Colombia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/25px-Flag_of_Colombia.svg.png) Colombia
 
 I am a technology enthusiast and a passionate programmer since a young age. My professional career has been focused on Systems Engineering and FullStack development, which has allowed me to acquire skills in programming languages such as Python, JavaScript, Java, and PHP. I am committed to constant learning to be able to offer effective solutions to my clients.
 
@@ -32,6 +32,33 @@ Landazuri - Santander, Colombia \
 Barranquilla, Colombia \
 *Feb 2022 — Present*
 
+- Back-end development with JavaScript, Java, Python, and GO.
+- Front-end development with HTML, CSS, and JavaScript frameworks such as ReactJS and NextJS.
+- Knowledge of software development best practices, including version control (e.g. Git) and agile methodologies.
+- Database design and implementation.
+- REST API and web services development.
+- Cloud infrastructure deployment in AWS using services such as ECR, ECS, EC2, Route53, Load Balancer, Amplify, S3, and CloudWatch.
+- DevSecOps collaboration and support.
+- Familiarity with containerization technologies such as Docker and Kubernetes.
+- Experience with cloud providers other than AWS, such as DigitalOcean or Azure.
+- Strong problem-solving and analytical skills, with a keen eye for detail.
+- Knowledge of software development best practices, including version control (e.g. Git) and agile methodologies.
+- Experience with data analysis tools and techniques, such as SQL and Python libraries like Pandas and NumPy.
+- Knowledge of business process modeling and documentation techniques, such as BPMN or UML.
+
+**Bussines Analyst** at **Servier de Colombia, S.A.S** \
+Bogotá, Colombia \
+*Jan 2021 — Jul 2021*
+
+- Strong analytical and critical thinking skills, with the ability to break down complex problems and processes into manageable components.
+- Excellent communication and interpersonal skills, with the ability to collaborate effectively with stakeholders across different departments and levels of the organization.
+- Knowledge of business process modeling and documentation techniques, such as BPMN or UML.
+- Experience with data analysis tools and techniques, such as SQL and Excel.
+- Familiarity with project management methodologies, such as Agile or Waterfall, and associated tools (e.g. Jira).
+- Understanding of business and financial metrics, such as ROI and TCO.
+- Experience with data visualization tools, such as Tableau or PowerBI.
+- Familiarity with business intelligence and analytics tools, such as Salesforce or SAP.
+
 ## ⚡ Quality Practices
 
 - Clean and readable code
@@ -54,11 +81,11 @@ Barranquilla, Colombia \
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![Bootstrap 4](https://img.shields.io/badge/Bootstrap%204-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next-dot-js&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next-dot-js&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 ### Backend Technologies
 
@@ -72,6 +99,7 @@ Barranquilla, Colombia \
 [![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Visual Basic](https://img.shields.io/badge/Visual%20Basic%20-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### Software Skills
 
@@ -84,12 +112,21 @@ Barranquilla, Colombia \
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-33AADD?logo=docker&logoColor=white&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white&style=for-the-badge)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
 
-###  Continuous Integration
+
+###  Continuous Integration & Continuous Deployment
 
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) 
 [![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![CodeCov](https://img.shields.io/badge/codecov-F01F7A.svg?style=for-the-badge&logo=codecov&logoColor=white)](https://codecov.io/)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-232F3E?logo=amazon-ecs&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
+
