@@ -15,7 +15,7 @@ My passion for technology and business drives me to always be on the lookout for
 
 <div id="badges" align="center">
   <a href="https://github.com/ameth1208">
-    <img src="https://komarev.com/ghpvc/?username=ameth1208&style=for-the-badge&color=red" alt="Profile View Badge"/></a>
+    <img src="https://komarev.com/ghpvc/?username=jorgeluis2000&style=for-the-badge&color=red" alt="Profile View Badge"/></a>
   <h4 align="left">Connect with me:</h4>
 </div>
 
