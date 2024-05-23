@@ -10,14 +10,18 @@ I am a technology enthusiast and a passionate programmer since a young age. My p
 I love working on challenging projects that allow me to apply my technical and business skills. Since my early steps into the web development world, I have been involved in creating small static and monolithic pages in PHP, HTML, CSS, and JavaScript. I am constantly looking for new opportunities to expand my knowledge and acquire new skills.
 
 My passion for technology and business drives me to always be on the lookout for new entrepreneurial opportunities. I enjoy working on projects that have a positive impact on society and that allow me to learn and grow professionally. I consider myself a versatile and client-focused FullStack developer, with the ability to offer customized solutions for every business need.
+
 ---
+
 <div id="badges" align="center">
   <h4 align="left">Connect with me:</h4>
-  [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeguiza/)
-  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/2000Jorgeluis)
 </div>
+
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeguiza/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/2000Jorgeluis)
+
 ---
----
+
 <div align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jorgeluis2000&show_icons=true&count_private=true&theme=blue-red&hide_border=true&,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeluis2000&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -25,6 +29,7 @@ My passion for technology and business drives me to always be on the lookout for
 </div>
 
 ---
+
 ## 🎓 Education
 
 **Universidad El Bosque** \
